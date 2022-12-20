@@ -1,0 +1,33 @@
+.title{
+    padding: 10px 60px;
+}
+
+
+.title .subscribe{ 
+    
+   display: flex;
+   justify-content: space-between;
+   padding: 20px 30px;
+   column-gap: 2px;
+
+}
+.main .subscribe{
+    
+    color: black;
+    font-size: large;
+    
+    
+}
+.main .large{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+.main .sign{
+    border-bottom: 30px;
+
+ 
+}
+.boder{
+    border-bottom: 3px;
+}

@@ -1,0 +1,50 @@
+.w-title
+{
+width: 50%;
+height: 320px;
+border: 1px solid black;
+border-radius: 5px;
+padding: 12px 0px;
+margin-left: 40px;
+}
+
+.wrapper
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.para1
+{
+
+    padding: 15px 5px;
+}
+.subtitle1
+{
+    padding: 10px 2px;
+}
+/*.date
+{
+    padding-left: 10px 2px;
+}*/
+.w-title1
+{
+    color: blue;
+   padding: 10px 2px;
+    font-size: larger;
+
+}
+
+
+.thum
+{
+    border: transparent;
+    background-color: gray;
+    width: 48%;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}

@@ -1,0 +1,66 @@
+.sample1
+{
+    padding: 15px 0px;
+    margin-left: 60px;
+}
+
+.sample
+{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+.date{
+    font-size: 18px;
+    color: gray;
+    
+}
+.s-para{
+    font-size: 15px;
+    border-bottom: 1px solid rgb(187, 184, 184);
+    margin-top: 30px;
+    width:60%;
+    }
+.s-para1
+{
+    margin-top: 15px;
+}
+.block{
+    font-style: normal;
+    font-size: 15px;
+}
+.quote{
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 10px;
+}
+.unorder
+{
+    margin-top: 20px;
+}
+.order{
+    margin-top: 20px;
+}
+.html
+{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.meaning
+{
+    font-size: 13px;
+    
+
+}
+.bolgs{
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: normal;
+}
+.btn1
+{
+border-radius: 10px;
+}
